@@ -3,7 +3,7 @@ Split a Pizza with a stranger!
 
 ![Main screen](http://i.imgur.com/YG0O83I.png "")
 
-![List screen](http://imgur.com/lgzWZY0 "")
+![List screen](http://i.imgur.com/lgzWZY0.png "")
 
 
 #Overview
