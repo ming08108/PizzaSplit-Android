@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/guava-15.0-acf6dd6e2f22aeb05f2f0e6a5949654995126d0d.jar"
+        jar="/Users/a/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-b90c0e190bfa03f9ddc21d419b6b8b129938d733.jar"
+        jar="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/notifications-1.0.1-5261b8a81b232a11ae787ef22bf1268fb510d4d6.jar"
+        jar="/Users/a/AndroidStudioProjects/pizzasplit/app/libs/notifications-1.0.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d2498fce7adbdb5ebd37dafc56d8056db60f51fe"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/classes-f66e9fb2f1ca5829ecab6d9a45d1b9e1dbd79741.jar"
+        jar="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/classes-9d953a7e2d6da441201ff5c229ec4a379fe4ac53.jar"
+        jar="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/mobileservices-1.1.5-793a24991e8c840845ed05e7a7cb133cccf72ac1.jar"
+        jar="/Users/a/AndroidStudioProjects/pizzasplit/app/libs/mobileservices-1.1.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="12188408c45b88124cb38dd2bedc9b314b5f554b"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/classes-08bca2bbc4e3b9dfe9e1a03fe1579ab8ed6292cf.jar"
+        jar="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/a/AndroidStudioProjects/pizzasplit/app/build/intermediates/pre-dexed/debug/gson-2.2.2-e15cce563074f4d978ed1f408263c619622eb6c5.jar"
+        jar="/Users/a/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908"/>
+
+</pre-dex-items>

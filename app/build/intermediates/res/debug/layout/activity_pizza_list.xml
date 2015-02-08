@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.pizzasplit.PizzaListActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add new Listing"
+        android:id="@+id/new_pizza"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#FFCC33"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listings"
+        android:layout_below="@+id/new_pizza"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/delete"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete my Listing"
+        android:id="@+id/delete"
+
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="#FF2400"
+        android:textColor="#FFFFFF"/>
+
+
+</RelativeLayout>
+<!-- From: file:/Users/a/AndroidStudioProjects/pizzasplit/app/src/main/res/layout/activity_pizza_list.xml -->
